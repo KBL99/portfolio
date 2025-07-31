@@ -1,7 +1,7 @@
 import { useState, useEffect, useMemo } from 'react';
 import { motion } from 'framer-motion';
 import { ArrowDown, Github, Linkedin, Mail } from 'lucide-react';
-import myImage from '../assets/IMG_2419.JPG';
+import myImage from '../assets/KIRANN.JPG';
 
 const Hero = () => {
   const [currentText, setCurrentText] = useState('');
